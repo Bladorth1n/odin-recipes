@@ -1,2 +1,2 @@
 # odin-recipes
-A web page that aims to share the best recipes you can find online
+The odin-recipes project aims to reinforce my learnings from html lessons of TOP. It will be mainly focusing on reinforcing my understanding of uses of HTML and using GitHub.
